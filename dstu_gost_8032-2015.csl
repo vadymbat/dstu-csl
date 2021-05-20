@@ -232,7 +232,7 @@
 						 <text macro="title"/>
 						 <text variable="container-title"/>
 						 <text macro="access" display="blocks"/>
-						 <date variable="accessed" prefix="(Дата звернення: " suffix=")">
+						 <date variable="accessed" prefix=" (Дата звернення: " suffix=")">
 								<date-part name="day" form="numeric-leading-zeros" suffix="."/>
 								<date-part name="month" form="numeric-leading-zeros" suffix="."/>
 								<date-part name="year" form="short"/>
